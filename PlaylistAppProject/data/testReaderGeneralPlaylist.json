@@ -1,0 +1,16 @@
+{
+  "playlist": [
+    {
+    "artist": "ABBA",
+    "id": 0,
+    "songLength": 230,
+    "title": "Dancing Queen"
+  },
+  {
+    "artist": "Bruno Mars",
+    "id": 1,
+    "songLength": 217,
+    "title": "Talking to the Moon"
+  }
+  ]
+}
